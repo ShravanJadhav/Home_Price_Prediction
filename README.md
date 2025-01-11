@@ -16,4 +16,6 @@ Programming Language: Python
 Libraries: Pandas for data cleaning, Matplotlib for data visualization, and scikit-learn for model building
 Backend: Flask
 Frontend: HTML, CSS, and JavaScript
-
+______________________________________________________________________________________________________________________________________________________________________________________
+https://github.com/user-attachments/assets/e4fc9969-15b1-41d5-ab2e-0e27558d06ad
+______________________________________________________________________________________________________________________________________________________________________________________
